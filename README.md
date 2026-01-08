@@ -93,5 +93,5 @@ This architecture ensures maintainability, scalability, and predictable data flo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/event-attendee-dashboard.git
-cd event-attendee-dashboard
+git clone https://github.com/Pulishekhar/Even.git
+
